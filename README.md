@@ -3,6 +3,8 @@ UiAutomatorExample
 
 This repository is example for `UiAutomator` testing.
 
+* Related post - [Android UiAutomator Test](http://novafactory.net/archives/3161)
+
 ## Creating test cases ##
 
 ### Creating a java project ###
@@ -156,7 +158,7 @@ $ adb shell uiautomator runtest UiAutomatorExample.jar -c net.novafactory.uiauto
 
 ## Sample Video ##
 
-[[youtube-{tehwOUCzSpM}-{427}x{255}]]
+http://www.youtube.com/watch?v=tehwOUCzSpM
 
 
 
